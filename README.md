@@ -47,15 +47,6 @@ Here are some things you may find on my GitHub:
 * 🧪 Experiments and prototypes
 * ⚙️ Automation scripts
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ro9aine\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ro9aine\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📈 Contribution Activity
 
