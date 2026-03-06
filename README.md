@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hi, I'm ro9aine
 
-<!--
-**ro9aine/ro9aine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I'm passionate about building software, experimenting with new technologies, and creating tools that solve real problems. This space contains my projects, experiments, and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Developer & tech enthusiast
+* 🧠 Interested in building scalable systems and useful tools
+* 🛠 Always learning new technologies and frameworks
+* 🌍 Open to collaboration and interesting projects
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
+
+* JavaScript
+* Python
+* TypeScript
+
+**Tools & Platforms**
+
+* Git & GitHub
+* Docker
+* Linux
+* Node.js
+
+**Other Interests**
+
+* Automation
+* APIs
+* Open-source development
+
+---
+
+## 📂 Projects
+
+Here are some things you may find on my GitHub:
+
+* 🔧 Developer tools and utilities
+* 🌐 Web applications
+* 🧪 Experiments and prototypes
+* ⚙️ Automation scripts
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ro9aine\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ro9aine\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📈 Contribution Activity
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ro9aine\&theme=tokyonight)
+
+---
+
+## 🤝 Collaboration
+
+I'm open to:
+
+* Open-source collaboration
+* Interesting side projects
+* Learning opportunities
+
+If you like one of my projects, feel free to ⭐ it or open an issue.
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/ro9aine
+
+---
+
+⭐ Thanks for visiting my profile!
