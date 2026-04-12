@@ -55,7 +55,7 @@ Here are some things you may find on my GitHub:
 ---
 
 ## LeetCode
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ro9aine)
+![Leetcode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME)
 
 ## 🤝 Collaboration
 
