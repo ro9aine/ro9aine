@@ -54,6 +54,9 @@ Here are some things you may find on my GitHub:
 
 ---
 
+## LeetCode
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ro9aine)
+
 ## 🤝 Collaboration
 
 I'm open to:
