@@ -57,6 +57,13 @@ Here are some things you may find on my GitHub:
 ## ♨️ LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ro9aine)
 
+---
+
+## PE
+[![Project Euler](https://projecteuler.net/profile/ro9aine.png)](https://projecteuler.net/progress=ro9aine)
+
+---
+
 ## 🤝 Collaboration
 
 I'm open to:
