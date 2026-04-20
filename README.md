@@ -59,11 +59,6 @@ Here are some things you may find on my GitHub:
 
 ---
 
-## PE
-[![Project Euler](https://projecteuler.net/profile/ro9aine.png)](https://projecteuler.net/progress=ro9aine)
-
----
-
 ## 🤝 Collaboration
 
 I'm open to:
